@@ -1,9 +1,15 @@
 <?php 
 
+
+
 /**
  * Script to perform a DDoS UDP Flood by PHP
  * 
  *
+
+ http://127.0.0.1/ddos.php?pass=apple&host=TARGET&port=PORT&time=SECONDS&packet=NUMBER&bytes=NUMBER
+
+
  * @package DDoS
  * @link https://github.com/drego85/DDoS-PHP-Script The DDoS UDP flood GitHub project
  * @author Andrea Draghetti (original founder) 
